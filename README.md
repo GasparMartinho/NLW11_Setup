@@ -31,10 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
+-[visite o projecto online](https:gasparmartinho.github.io/NLW11_Setup)
 
-O habits é um app par ajudar a rastrear os habitos.
-
-
+O habits é um app par ajudar a rastrear os habitos,
 
 
 ## 🔖 Layout
